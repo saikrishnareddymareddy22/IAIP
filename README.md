@@ -46,16 +46,6 @@ The game provides a 3×3 grid where two players can play by taking turns marking
 * Git
 * GitHub
 
-## Project Structure
-
-
-IAIP/
-│
-├── tic_tac_toe.py
-├── README.md
-└── Screenshots/
-
-
 
 
 ## How to Run the Project
@@ -87,16 +77,17 @@ python tic_tac_toe.py
 
 ## Board Layout
 
+```text
 1 | 2 | 3
 ---------
 4 | 5 | 6
 ---------
 7 | 8 | 9
-
+```
 
 ## Sample Output
 
-
+```text
 ===== TIC TAC TOE =====
 
 X | O | X
@@ -106,6 +97,7 @@ O | X | O
 X |   | O
 
 Player X Wins!
+```
 
 
 
