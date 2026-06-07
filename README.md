@@ -96,13 +96,14 @@ python tic_tac_toe.py
 
 ## Sample Output
 
+
 ===== TIC TAC TOE =====
 
- X | O | X
------------
- O | X | O
------------
- X |   | O
+X | O | X
+---------
+O | X | O
+---------
+X |   | O
 
 Player X Wins!
 
